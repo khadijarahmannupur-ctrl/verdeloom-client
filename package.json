@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@better-auth/mongo-adapter": "^1.6.23",
+    "better-auth": "^1.6.23",
+    "framer-motion": "^12.42.2",
+    "mongodb": "^7.5.0",
     "next": "16.2.10",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.7.0",
+    "recharts": "^3.9.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
